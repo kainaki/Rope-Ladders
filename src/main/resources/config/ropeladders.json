@@ -1,0 +1,6 @@
+{
+  "maxChainLength": 512,
+  "particlesEnabled": true,
+  "soundsEnabled": true,
+  "raycastDistance": 3.0
+}
